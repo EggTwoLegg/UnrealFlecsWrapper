@@ -1,4 +1,3 @@
-Exposes the flecs library by https://github.com/SanderMertens/flecs to Unreal Engine 5. Has a simple node-based scheduler and a few example systems.
 # UECS | An Unreal Engine 5 + Flecs integration
 #### _*Meant for C++ developers. No blueprint support (yet and potentially ever)._
 
